@@ -8,7 +8,7 @@
 
 - curses包
 
-根据python版本下在对应的whl包
+根据python版本下载对应的whl包
 
 地址：[https://www.lfd.uci.edu/~gohlke/pythonlibs/#curses](https://www.lfd.uci.edu/~gohlke/pythonlibs/#curses)
 
