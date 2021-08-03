@@ -22,7 +22,7 @@
 
 # 汇总
 |编号|链接|时间|
-| :--:| :--: | :--: |
+| :--| :-- | :-- |
 |1|[前程无忧爬虫](https://github.com/haohaizhi/51job_spiders)|2020/09/05|
 |2|[python图片转字符画](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%9B%BE%E7%89%87%E8%BD%AC%E5%AD%97%E7%AC%A6%E7%94%BB)|2021/07/29|
 |3|[python生成二维码](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81)|2021/07/29|
