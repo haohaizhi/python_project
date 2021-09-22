@@ -27,4 +27,4 @@
 |2|[python图片转字符画](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%9B%BE%E7%89%87%E8%BD%AC%E5%AD%97%E7%AC%A6%E7%94%BB)|2021/07/29|
 |3|[python生成二维码](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E7%94%9F%E6%88%90%E4%BA%8C%E7%BB%B4%E7%A0%81)|2021/07/29|
 |4|[python小游戏2048](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%B0%8F%E6%B8%B8%E6%88%8F2048)|2021/08/02|
-|5|[python多人聊天室](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%B0%8F%E6%B8%B8%E6%88%8F2048)|2021/09/22|
+|5|[python多人聊天室](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%AE%A4)|2021/09/22|
