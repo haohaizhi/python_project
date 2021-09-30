@@ -29,3 +29,4 @@
 |4|[python小游戏2048](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%B0%8F%E6%B8%B8%E6%88%8F2048)|2021/08/02|
 |5|[python多人聊天室](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E5%A4%9A%E4%BA%BA%E8%81%8A%E5%A4%A9%E5%AE%A4)|2021/09/22|
 |6|[python简单web服务器](https://github.com/haohaizhi/python_study/tree/main/scripts/python%E7%AE%80%E5%8D%95web%E6%9C%8D%E5%8A%A1%E5%99%A8)|2021/09/22|
+|7|[项目：高德地图-58同城租房](https://github.com/haohaizhi/58house_spiders)|2021/09/30|
