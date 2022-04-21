@@ -31,3 +31,4 @@
 |6|[python简单web服务器](https://github.com/haohaizhi/python_project/tree/main/scripts/python%E7%AE%80%E5%8D%95web%E6%9C%8D%E5%8A%A1%E5%99%A8)|2021/09/22|
 |7|[项目：高德地图-58同城租房](https://github.com/haohaizhi/58house_spiders)|2021/09/30|
 |8|[python图像隐写术](https://github.com/haohaizhi/python_project/tree/main/scripts/python%E5%9B%BE%E5%83%8F%E9%9A%90%E5%86%99%E6%9C%AF)|2021/10/09|
+|9|[项目：豆瓣电影爬虫可视化](https://github.com/haohaizhi/douban_movies)|2022/04/21|
