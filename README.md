@@ -33,4 +33,4 @@
 |8|[python图像隐写术](https://github.com/haohaizhi/python_project/tree/main/scripts/python%E5%9B%BE%E5%83%8F%E9%9A%90%E5%86%99%E6%9C%AF)|2021/10/09|
 |9|[项目：豆瓣电影爬虫可视化](https://github.com/haohaizhi/douban_movies)|2022/04/21|
 |10|[项目：SSH客户端](https://github.com/haohaizhi/ssh_client)|2024/05/08|
-
+|11|[python批量爬取文章](https://github.com/haohaizhi/python_project/tree/main/scripts/python%E6%89%B9%E9%87%8F%E7%88%AC%E5%8F%96%E6%96%87%E7%AB%A0)|2024/06/19|
